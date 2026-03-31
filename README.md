@@ -1,79 +1,75 @@
-# 👋 Salom,Inomjon!
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Toshmirzayev-Inomjon&label=Profilga+tashriflar&color=blue&style=flat-square" alt="Profilga tashriflar" />
-</p>
-
-<h3 align="center">🚀 Full Stack Developer | Python & Django | React</h3>
+# 👋 Salom, Men Inomjon. Kodlash olamimga marhamat!
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Full Stack Developer-blue?style=for-the-badge" alt="Full Stack Developer"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
 ---
 
 ## 🚀 Men haqimda
 
-* 💡 **Backend-da Python** va uning kutubxonalari ustida ishlayman.
-* ✨ **Frontend-da React** yordamida dinamik va qulay interfeyslar yarataman.
-* 🛠 Toza, tushunarli va saqlanishi oson kod yozishga intilaman.
-* 📈 **Machine Learning** va **Deep Learning** yo'nalishlariga qiziqaman va loyihalar yaratishga harakat qilaman.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Toshmirzayev-Inomjon&show_icons=true&theme=dark" alt="Inomjon's GitHub stats"/>
+</p>
+
+* ✨ **Full Stack Developer** sifatida backend va frontend qismlarida loyihalar yarataman.
+* 🧠 **Python, Django, React, MySQL, PostgreSQL** va **Telegram Bot API** bilan ishlashda tajribaga egaman.
+* 💻 Toza, tushunarli va saqlanishi oson kod yozishga intilaman.
+* 📈 Doimiy ravishda yangi bilimlarni o'rganish va professional o'sishga intilaman.
 * 📍 O'zbekiston, Toshkent.
 
 ---
 
 ## 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</div>
+### 🚀 Backend
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" alt="Python"/> Python
+  <img src="https://img.icons8.com/color/48/000000/django.png" width="40" alt="Django"/> Django
+  <img src="https://img.icons8.com/color/48/000000/fastapi.png" width="40" alt="FastAPI"/> FastAPI
+</p>
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/html5--v1.png" width="40" alt="HTML5"/> HTML5
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" alt="CSS3"/> CSS3
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" alt="JavaScript"/> JavaScript
+  <img src="https://img.icons8.com/color/48/000000/react.png" width="40" alt="React"/> React
+</p>
+
+### 💾 Database
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" width="40" alt="MySQL"/> MySQL
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="40" alt="PostgreSQL"/> PostgreSQL
+</p>
+
+### 🛠 Tools
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/docker.png" width="40" alt="Docker"/> Docker
+  <img src="https://img.icons8.com/color/48/000000/github.png" width="40" alt="GitHub"/> GitHub
+  <img src="https://img.icons8.com/color/48/000000/git.png" width="40" alt="Git"/> Git
+</p>
 
 ---
 
 ## 📈 GitHub Statistika
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toshmirzayev-Inomjon&show_icons=true&theme=dark" alt="Inomjon's GitHub stats"/>
-</p>
-
----
-
-## 📊 Tillaringiz Paneli
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toshmirzayev-Inomjon&layout=compact&theme=dark&langs_count=10&hide=jupyter%20notebook" alt="Inomjon's Top Langs"/>
-</p>
-
----
-
-## 🗓 Men bilan Bog'lanish
-
-<p align="center">
-  <a href="https://t.me/toshmirzayevinomjon" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toshmirzayev-Inomjon&layout=compact&theme=dark" alt="Inomjon's Top Langs"/>
 </p>
 
 ---
 
 ## 🏆 Maqsadlarim
 
-* [ ] Full Stack dasturlash bo'yicha mukammal bilimga ega bo'lish.
-* [ ] O'z ustimda ishlash va yangi texnologiyalarni o'rganish.
-* [ ] Katta loyihalarda ishtirok etish va tajriba orttirish.
+* [ ] Yangi texnologiyalarni o'rganish va amaliyotda qo'llash.
+* [ ] O'z ustimda ishlash va professional o'sish.
+* [ ] Jamoada ishlash va katta loyihalarda ishtirok etish.
+
+---
+
+## 🗓 Men bilan Bog'lanish
+
+<a href="https://t.me/toshmirzayevinomjon" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
