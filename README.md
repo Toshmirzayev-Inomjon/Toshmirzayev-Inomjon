@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Salom! Men Inomjon
 
-<!--
-**Toshmirzayev-Inomjon/Toshmirzayev-Inomjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Backend Dasturchi | Python & Django
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Men haqimda
+* G'oyalarni sifatli va mukammal loyihalarga aylantirishga intilaman.
+* **Python, Django** va **Telegram botlar** ustida ishlayman.
+* Doimiy ravishda yangi bilimlarni o'rganish va tajriba orttirish tarafdoriman.
+* 📍 O'zbekiston.
+
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Statistika
+![Inomjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toshmirzayev-Inomjon&show_icons=true&theme=dark)
