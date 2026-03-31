@@ -1,75 +1,68 @@
-# 👋 Salom, Men Inomjon. Kodlash olamimga marhamat!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Salom,%20Men%20Inomjonman!&fontSize=50&fontAlignY=35&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=G'oyalarni+mukammal+loyihalarga+aylantiraman;Backend+va+Frontend+dasturlash+ustasi;Har+bir+kodim+chiroyli+va+mazmunli" alt="Typing SVG" />
+</div>
+
+---
+
+### 🌌 Men haqimda qisqacha
+
+G'oyalarni sifatli va mukammal loyihalarga aylantirish men uchun shunchaki ish emas, balki ijoddir. Har bir yozgan kodim nafaqat ishlashi, balki chiroyli va mantiqan chuqur ma'noga ega bo'lishiga harakat qilaman.
+
+<details>
+  <summary><b>✨ Kengroq ma'lumotni ochish (Bosing)</b></summary>
+  <br>
+  <ul>
+    <li>🔭 Hozirda <b>murakkab va yirik web tizimlar</b> ustida ishlayapman.</li>
+    <li>🌱 O'z ustimda tinimsiz ishlab, dasturlashning zamonaviy yechimlarini o'rganyapman.</li>
+    <li>👯 Boshqa tajribali dasturchilar bilan hamkorlik qilishga va tajriba almashishga doim tayyorman.</li>
+    <li>⚡ Bo'sh vaqtlarimda yangi texnologiyalarni sinab ko'rishni yoqtiraman.</li>
+  </ul>
+</details>
+
+---
+
+### 🛠 Foydalanadigan Asboblarim
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Full Stack Developer-blue?style=for-the-badge" alt="Full Stack Developer"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,react,html,css,mysql,postgres,docker,git,linux,github&perline=7" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Men haqimda
+### 📊 Faollik va Statistika
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Toshmirzayev-Inomjon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toshmirzayev-Inomjon&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+</div>
+
+<details>
+  <summary><b>📈 Eng ko'p ishlatadigan tillarimni ko'rish</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toshmirzayev-Inomjon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </p>
+</details>
+
+---
+
+### 🤝 Men bilan bog'lanish
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toshmirzayev-Inomjon&show_icons=true&theme=dark" alt="Inomjon's GitHub stats"/>
+  <a href="https://t.me/toshmirzayevinomjon" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:sizning_emailingiz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-* ✨ **Full Stack Developer** sifatida backend va frontend qismlarida loyihalar yarataman.
-* 🧠 **Python, Django, React, MySQL, PostgreSQL** va **Telegram Bot API** bilan ishlashda tajribaga egaman.
-* 💻 Toza, tushunarli va saqlanishi oson kod yozishga intilaman.
-* 📈 Doimiy ravishda yangi bilimlarni o'rganish va professional o'sishga intilaman.
-* 📍 O'zbekiston, Toshkent.
-
----
-
-## 🛠 Tech Stack
-
-### 🚀 Backend
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" alt="Python"/> Python
-  <img src="https://img.icons8.com/color/48/000000/django.png" width="40" alt="Django"/> Django
-  <img src="https://img.icons8.com/color/48/000000/fastapi.png" width="40" alt="FastAPI"/> FastAPI
-</p>
-
-### 🎨 Frontend
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/html5--v1.png" width="40" alt="HTML5"/> HTML5
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" alt="CSS3"/> CSS3
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" alt="JavaScript"/> JavaScript
-  <img src="https://img.icons8.com/color/48/000000/react.png" width="40" alt="React"/> React
-</p>
-
-### 💾 Database
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" width="40" alt="MySQL"/> MySQL
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="40" alt="PostgreSQL"/> PostgreSQL
-</p>
-
-### 🛠 Tools
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/docker.png" width="40" alt="Docker"/> Docker
-  <img src="https://img.icons8.com/color/48/000000/github.png" width="40" alt="GitHub"/> GitHub
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="40" alt="Git"/> Git
-</p>
-
----
-
-## 📈 GitHub Statistika
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toshmirzayev-Inomjon&layout=compact&theme=dark" alt="Inomjon's Top Langs"/>
-</p>
-
----
-
-## 🏆 Maqsadlarim
-
-* [ ] Yangi texnologiyalarni o'rganish va amaliyotda qo'llash.
-* [ ] O'z ustimda ishlash va professional o'sish.
-* [ ] Jamoada ishlash va katta loyihalarda ishtirok etish.
-
----
-
-## 🗓 Men bilan Bog'lanish
-
-<a href="https://t.me/toshmirzayevinomjon" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
