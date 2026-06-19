@@ -50,24 +50,6 @@ Asosiy e'tiborim: **tezkor, xavfsiz va kengaytiriladigan arxitektura** yaratish.
 
 </div>
 
----
-
-## 📂 Tanlangan Loyihalar
-
-| Loyiha Nomi | Tavsif | Stack |
-| :--- | :--- | :--- |
-| 📚 **BookBarber Bot** | Kitoblar savdosi va o'yin mexanikali bot | `Aiogram` `Redis` |
-| 📰 **News Platform** | Kengaytirilgan yangiliklar portali | `Django` `PostgreSQL` |
-| 💼 **JobFinder** | Vakansiyalar va rezyumelar agregatori | `FastAPI` `Docker` |
-| 📅 **MyDay Planner** | Shaxsiy samaradorlik platformasi | `Django` `Bootstrap` |
-
----
-
-## 🌱 O'rganishda davom etmoqdaman
-
-- ☐ **Microservices** — Katta tizimlarni kichik servislar orqali boshqarish
-- ☐ **Kubernetes** — Konteynerlarni avtomatlashtirilgan boshqarish
-- ☐ **NLP (Natural Language Processing)** — Matnlarni tahlil qilish va AI integratsiyasi
 
 ---
 
