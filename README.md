@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Murakkab+muammolarga+oddiy+yechimlar;Salom!+Men+Inomjon+%F0%9F%91%8B;Python+%7C+Django+%7C+FastAPI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Salom!+Men+Inomjon+%F0%9F%91%8B;Murakkab+muammolarga+oddiy+yechimlar;Python+%7C+Django+%7C+FastAPI" alt="Typing SVG" />
 
 <br>
 
